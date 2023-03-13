@@ -1,2 +1,5 @@
 hello
+<<<<<<< HEAD
 my real name is
+=======
+>>>> my_branch
