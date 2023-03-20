@@ -1,5 +1,3 @@
-hello
 <<<<<<< HEAD
-my real name is
-=======
->>>> my_branch
+hello
+>>>>>>> 5fb1305 (First commit from new_branch)
