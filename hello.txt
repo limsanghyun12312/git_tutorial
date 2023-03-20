@@ -1,3 +1,2 @@
 <<<<<<< HEAD
 hello
->>>>>>> 5fb1305 (First commit from new_branch)
